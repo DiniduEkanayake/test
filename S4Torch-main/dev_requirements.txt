@@ -1,0 +1,12 @@
+black==22.6.0
+fire==0.4.0
+isort==5.10.1
+librosa==0.9.1
+matplotlib==3.5.1
+numpy==1.22
+pytorch-lightning==1.6.4
+requests==2.27.1
+torchaudio==0.10.1
+torchvision==0.11.2
+tqdm==4.62.3
+git+https://github.com/regeirk/pycwt@main#egg=pycwt

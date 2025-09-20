@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: s4torch
+Version: 0.0.1
+Author: Tariq Hassan
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Natural Language :: English
+License-File: LICENSE
+Dynamic: classifier
+Dynamic: license-file
